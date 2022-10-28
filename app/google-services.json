@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258621465255",
+    "project_id": "translator-app-d990a",
+    "storage_bucket": "translator-app-d990a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258621465255:android:e1a1611fb70a270d1ab182",
+        "android_client_info": {
+          "package_name": "org.bnmit.www.speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258621465255-2af3kegp7nq040bn1bo96bbun8d7pv49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp81Qx8LRYdxYVj2QNSi9IB4PHeVXiGvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258621465255-2af3kegp7nq040bn1bo96bbun8d7pv49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
